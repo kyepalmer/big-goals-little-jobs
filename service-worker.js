@@ -1,6 +1,6 @@
 self.addEventListener('install', function(event) {
   event.waitUntil(
-    caches.open('bglj-v1').then(function(cache) {
+    caches.open('bglj-v2').then(function(cache) {
       return cache.addAll([
         '/',
         '/index.html',
