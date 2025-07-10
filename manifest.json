@@ -1,0 +1,13 @@
+{
+  "name": "big goals. little jobs.",
+  "short_name": "bglj",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fdf6ef",
+  "theme_color": "#e25e36",
+  "icons": [{
+    "src": "icon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
+}
